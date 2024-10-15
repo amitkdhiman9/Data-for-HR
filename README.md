@@ -1,4 +1,4 @@
-# Data for HR
+# Data Analysis and Machine Learning for HR
 
 ## The Right Bargain
 A lot of times it so happens that the HR of the company is confused whether to retain a particular employee by giving a raise or whether the employee is going to stay no matter if he/she is given a raise or whether to simply let that employee go.
